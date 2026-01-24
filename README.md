@@ -7,6 +7,9 @@ This is done through xdelta patching, which can be applied somewhat automaticall
 
 ## Installation Steps
 
+### Gestalt Edition Notice
+Version 1.3.0 of Gestalt Edition now includes this patch. If you have Gestalt Edition 1.3.0 or later installed, you shouldn't need this.
+
 ### Automatic Install
 1. From the FILE directory in your installation of Remember11, drag bgmpc.afs onto the PATCHER.bat included here. (If you'd rather use the command line, you can run PATCHER.bat with the path to bgmpc.afs as an argument.)
 2. Press Y to back up the original files if you want to.
