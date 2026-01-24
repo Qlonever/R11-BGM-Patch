@@ -8,7 +8,9 @@ This is done through xdelta patching, which can be applied somewhat automaticall
 ## Installation Steps
 
 ### Gestalt Edition Notice
-Version 1.3.0 of Gestalt Edition now includes this patch. If you have Gestalt Edition 1.3.0 or higher installed, you shouldn't need this.
+Version 1.3.0 of Gestalt Edition now includes this patch: [Infinity Series Resource Links](https://www.reddit.com/r/InfinitySeries/comments/1d1u1c8/infinity_series_resource_links_mega_post/)
+
+If you have Gestalt Edition 1.3.0 or higher installed, you shouldn't need this.
 
 ### Automatic Install
 1. From the FILE directory in your installation of Remember11, drag bgmpc.afs onto the PATCHER.bat included here. (If you'd rather use the command line, you can run PATCHER.bat with the path to bgmpc.afs as an argument.)
